@@ -19,4 +19,4 @@ Route::resource('devs', 'DevController');
 
 Route::resource('projects', 'ProjectController');
 
-Route::resource('authors', 'AuthorController');
+// Route::resource('authors', 'AuthorController');
